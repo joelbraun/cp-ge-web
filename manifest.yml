@@ -1,0 +1,5 @@
+ applications:
+   - name: ocv-pl-web
+     buildpack: predix_openresty_buildpack
+     memory: 512M
+     stack: cflinuxfs2
